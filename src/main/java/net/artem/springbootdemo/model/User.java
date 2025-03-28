@@ -1,4 +1,4 @@
-package net.proselyte.springbootdemo.model;
+package net.artem.springbootdemo.model;
 import lombok.Data;
 
 import javax.persistence.*;

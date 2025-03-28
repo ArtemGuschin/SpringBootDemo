@@ -1,9 +1,9 @@
-package net.proselyte.springbootdemo.servise;
+package net.artem.springbootdemo.servise;
 
 
 
-import net.proselyte.springbootdemo.model.User;
-import net.proselyte.springbootdemo.repository.UserRepository;
+import net.artem.springbootdemo.model.User;
+import net.artem.springbootdemo.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
